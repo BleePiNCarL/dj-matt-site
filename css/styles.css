@@ -191,7 +191,7 @@ section{position:relative}
 footer{border-top:1px solid var(--line);padding:48px 0 36px;margin-top:90px}
 .foot{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:20px}
 .foot .socials{display:flex;gap:18px}
-.foot .socials a{color:var(--muted);font-size:.85rem;transition:.2s}
+.foot .socials a{color:var(--cloud);font-size:.85rem;transition:.2s}
 .foot .socials a:hover{color:var(--turq)}
 .foot small{color:var(--muted);font-size:.8rem}
 
