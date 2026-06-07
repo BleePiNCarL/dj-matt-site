@@ -54,7 +54,7 @@ nav.scrolled{
 .nav-links{display:flex;gap:34px;align-items:center}
 .nav-links a{font-size:.9rem;color:var(--muted);transition:.2s;font-weight:500}
 .nav-links a:hover{color:var(--cloud)}
-.nav-links .btn{padding:.6em 1.2em}
+.nav-links .btn{padding:.6em 1.2em}.nav-links .btn-turq{color:#000}.nav-links .btn-turq:hover{color:#fff}
 @media(max-width:820px){.nav-links a:not(.btn){display:none}}
 
 /* ---------- HERO ---------- */
